@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="" width="120" alt="Drop TV Logo">
+<img src="ic_launcher.webp" width="120" alt="Drop TV Logo">
 
 # Drop - File Transfer
 
@@ -77,7 +77,7 @@ Pre-release builds of Drop will be available through GitHub Releases.
   <table>
     <tr>
       <td align="center" valign="middle">
-        <img src="drop_logo.webp" width="64" alt="Drop TV Logo">
+        <img src="ic_launcher.webp" width="64" alt="Drop TV Logo">
       </td>
       <td align="left" valign="middle">
         <strong>Drop - File Transfer</strong><br>
